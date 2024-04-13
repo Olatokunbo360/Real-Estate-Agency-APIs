@@ -82,5 +82,13 @@ Install the required dependencies. You can use the following command to install 
 
 Copy code pip install -r requirements.txt
 
-Once the dependencies are installed, then you can begin checking the files.
+Once the dependencies are installed, then you can begin checking the files. Please follow the instructions and comments in the files for more information on the APIs
+
+**Contributing**
+
+Contributions to this project are welcome. If you have suggestions for improvements or new analyses, please feel free to open an issue or submit a pull request.
+
+
+
+By [Yusuf Sanni] - [yusufsanni2003@yahoo.co.uk]
 
