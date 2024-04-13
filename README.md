@@ -1,8 +1,6 @@
 # Real Estate Agency APIs
  APIs for the website of a real estate agency to monitor property under the agency
 
- # Real Estate Agency APIs
- APIs for real estate monitoring
 
  This repository contains a collection of APIs used in the building of real estate agency's website. The APIs were used for updating and entering data as well as monitoring property under the agency. These APIs were built using Python libraries. Every time an API is called, a message is logged as regards the activity of the API (if it is a POST or A GET action) and the status of the call (failed or successful) along with a request ID. The log messages are uploaded to a table in a MySQL database (in this case, the table is called api_audit_log). The API endpoints can then be tested with the use of a tool like Postman. The APIs upload entered details into a MySQL database and when there are data requests, it accesses the same database to pull the information required.
 
